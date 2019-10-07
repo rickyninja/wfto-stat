@@ -1,0 +1,148 @@
+# War for the Overworld
+kairos:
+    # level 1
+    - name: Oberon's Realm
+      achievements:
+        - Awakening
+        - Valedictorian
+        - A Real Keeper
+    # level 2
+    - name: Keepsake Keep
+      achievements:
+        - Welcome to Kairos
+        - Burnt Face Man
+        - Indy
+    # level 3
+    - name: The Breach
+      achievements:
+        - The Breach
+        - Portal Gems
+        - Impatience is a Virtue
+    # level 4
+    - name: Turncoat Isle
+      achievements:
+        - Shades of Grey
+        - 50 Shades
+        - Completionist
+    # level 5
+    - name: Spine of Kairos
+      achievements:
+        - The Rear Guard
+        - Short Joke
+        - Time for Tea
+    # level 6
+    - name: Rhaskos' Realm Behind Enemy Lines
+      achievements:
+        - Behind Enemy Lines
+        - Prison Architect
+        - Scott Richmond
+    # level 7
+    - name: Rhaskos' Realm Heart Attack
+      achievements:
+        - Heart Attack
+        - Saving Private Rhaskos
+        - Defibrilator
+    # level 8
+    - name: Royal Crypt
+      achievements:
+        - Desecration
+        - Grave Robber
+        - Go. Hunt. Kill Skuls.
+    # level 9
+    - name: Belmorne's Pass
+      achievements:
+        - Belmorne's Pass
+        - Tower Defence
+        - They shall not pass
+    # level 10
+    - name: Arcane Fortress
+      achievements:
+        - The Kenos
+        - Bejeweled
+        - Miracle
+    # level 11
+    - name: Mira's Realm
+      achievements:
+        - Desperate Power
+        - Mondrian
+        - Mira mi poder
+    # level 12
+    - name: Snowslip Down
+      achievements:
+        - Subjugation
+        - Over 9000
+        - Fair Play
+    # level 13
+    - name: Uther's Landing
+      achievements:
+        - Equilibrium
+        - A Quick Death
+        - Leeeeeroooy
+# Heart of Gold
+phaestus:
+    # level 1
+    - name: Murkmud
+      achievements:
+        - Mandalf the Gold
+        - Precious
+        - Mother of Minions
+        - Stairway to Heaven
+    # level 2
+    - name: Rhoad
+      achievements:
+        - IChooseYou
+        - Gotta Find ‘Em All
+        - MetalGear
+        - Rhoadblock
+        - Nature’s Call
+        - When I Was a Young WartHoG
+    # level 3
+    - name: Gilton
+      achievements:
+        - Forging Ahead
+        - Monopoly
+        - Cash For Gold
+        - Gold Rush
+        - Sacré Bleu!
+    # level 4
+    - name: Ikhor
+      achievements:
+        - Art is Long, Life is Short
+        - Heart of Gold
+        - Desinhibition
+        - Together Forever
+        - Gauntlet
+        - What Does it Mean?
+my pet dungeon:
+    # level My Pet Dungeon
+    - name: My Pet Dungeon
+      achievements:
+        - Dipping Your Toe In
+        - Half-Full or Half-Empty?
+        - Dambuster
+        - Liberty
+        - Just Deserts
+        - Brain Freeze
+        - The Big Thaw
+        - Fossil Hunter
+        - One Million Years B.C.
+        - Working-Class Hero
+        - Robbing Hood
+        - Golden Touch
+        - Law and Order
+        - Your Underlord Needs You!
+        - High Hopes
+        - Dark Horse
+        - Horses for Courses
+        - Hotspur
+        - Jailbreak
+        - Lock Horns
+        - Under Lock and Key
+        - Dungetopia
+        - Creature Comforts
+        - Home Sweet Home
+# This seems to be a global achievement without a level.
+none:
+    - name: '???'
+      achievements:
+        - New Year Goodness
